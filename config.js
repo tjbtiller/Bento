@@ -54,7 +54,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://tradingview.com',
     },
     {
       id: '4',
