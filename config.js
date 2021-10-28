@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'OpenWRT',
+        link: 'http://192.168.1.1/cgi-bin/luci/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'OpenSea',
+        link: 'opensea.io/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'CryptoPanic',
+        link: 'https://cryptopanic.com/news?filter=important',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'CoinMarketCal',
+        link: 'https://coinmarketcal.com/en/',
       },
     ],
   },
